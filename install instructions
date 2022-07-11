@@ -1,0 +1,18 @@
+		
+	Taiolor Website using php codeigniter framework
+
+		*start your xampp server 
+		*db name - tailor
+		*folder name - toiler_website
+		- file path : C:\xampp\htdocs\toiler_website
+		run this url in chrome - http://localhost/others/toiler_website/logout
+
+		admin login - 
+		username: admin
+		email_id : admin@gmail.com
+		password : user@1234
+
+		customer login - 
+		username: customer
+		email_id : customer@gmail.com
+		password : user@1234
